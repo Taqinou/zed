@@ -134,7 +134,7 @@ To get all the features (autocomplete, linting, etc.) from the [Tailwind CSS lan
     "tailwindcss-language-server": {
       "settings": {
         "includeLanguages": {
-          "heex": "html"
+          "phoenix-heex": "html"
         },
         "experimental": {
           "classRegex": ["class=\"([^\"]*)\"", "class='([^']*)'"]
